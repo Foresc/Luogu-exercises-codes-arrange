@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "files.autoGuessEncoding": true,
+    "editor.fontSize": 15,
+    "files.associations": {
+        "iostream": "cpp",
+        "cstdlib": "cpp",
+        "vector": "cpp",
+        "random": "cpp",
+        "ostream": "cpp",
+        "xstring": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "editor.snippetSuggestions": "bottom"
+}
