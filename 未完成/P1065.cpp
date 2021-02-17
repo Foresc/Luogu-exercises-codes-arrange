@@ -56,7 +56,7 @@ int main()
                         machinetime[i] = worklist[j][2];
                         iswork[j] = true;
                         tworkstep[i] = worklist[j][0];
-                        cout << "item" << worklist[j][0] << " machine" << i << " step" << workstep[worklist[j][0]] << " minute" << ans + 1 << endl;     // 测试代码
+                        cout << "item" << worklist[j][0] << " machine" << i << " step" << workstep[worklist[j][0]] << " minute" << ans + 1 << " need " << machinetime[i] << " minute" << endl;     // 测试代码
                         break;
                     }
                     else
